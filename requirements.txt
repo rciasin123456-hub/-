@@ -1,0 +1,7 @@
+requests
+firebase-admin
+urllib3
+beautifulsoup4
+pyotp
+flask
+waitress
